@@ -1,3 +1,5 @@
+look at code view
+
 # training-ocr-math
 this is a repository of parts of a math OCR that I'm working on. As of now, it doesn't work but I have a lot of the parts needed for it to get running.
 
